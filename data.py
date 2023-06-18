@@ -1,0 +1,41 @@
+question_data = [
+    {
+        "category": "Entertainment: Japanese Anime & Manga", "type": "boolean", "difficulty": "medium",
+        "question": "In The telegram Group Enfp:  Yassine is the best member.",
+        "correct_answer": "True", "incorrect_answers": ["False"]},
+    {
+        "category": "Entertainment: Japanese Anime & Manga",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "In Kill La Kill, the weapon of the main protagonist is a katana. ",
+        "correct_answer": "False",
+        "incorrect_answers": ["True"]
+    },
+    {"category": "Entertainment: Japanese Anime & Manga", "type": "boolean", "difficulty": "easy",
+     "question": "No Game No Life first aired in 2014.", "correct_answer": "True", "incorrect_answers": ["False"]},
+    {"category": "Entertainment: Japanese Anime & Manga", "type": "boolean", "difficulty": "easy",
+     "question": "In Melancholy of Haruhi Suzumiya; series, the narrator goes by the nickname Kyon.",
+     "correct_answer": "True", "incorrect_answers": ["False"]},
+    {"category": "Entertainment: Japanese Anime & Manga", "type": "boolean", "difficulty": "easy",
+     "question": "In Pokemon, Ash's Pikachu refuses to go into a pokeball.", "correct_answer": "True",
+     "incorrect_answers": ["False"]},
+    {"category": "Entertainment: Japanese Anime & Manga", "type": "boolean", "difficulty": "hard",
+     "question": "Throughout the entirety of Dragon Ball Z, Goku only kills two characters: a miniboss named "
+                 "Yakon and Kid Buu.",
+     "correct_answer": "True", "incorrect_answers": ["False"]},
+    {"category": "Entertainment: Japanese Anime & Manga", "type": "boolean", "difficulty": "easy",
+     "question": "The name of the attack Kamehameha in Dragon Ball Z was named after a famous king of Hawaii.",
+     "correct_answer": "True", "incorrect_answers": ["False"]},
+    {"category": "Entertainment: Japanese Anime & Manga", "type": "boolean", "difficulty": "easy",
+     "question": "Kiznaiver is an adaptation of a manga.", "correct_answer": "False",
+     "incorrect_answers": ["True"]},
+    {"category": "Entertainment: Japanese Anime & Manga", "type": "boolean", "difficulty": "hard",
+     "question": "The character Plum from No Game No Life is a girl.", "correct_answer": "False",
+     "incorrect_answers": ["True"]},
+    {"category": "Entertainment: Japanese Anime & Manga",
+     "type": "boolean",
+     "difficulty": "medium",
+     "question": "In Full Metal Panic!, Whispered are those who are capable of creating Black Technology.",
+     "correct_answer": "True",
+     "incorrect_answers": ["False"]}
+]
